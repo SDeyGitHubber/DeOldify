@@ -1,0 +1,16 @@
+wandb
+matplotlib
+streamlit
+fastai==1.0.60
+tensorboardX>=1.6
+ffmpeg
+ffmpeg-python
+yt-dlp
+jupyterlab
+Pillow
+deoldify
+opencv-python>=4.2.0.32
+Pillow>=8.3.2
+--extra-index-url https://download.pytorch.org/whl/cu113
+torchvision>=0.17.0
+ipywidgets
