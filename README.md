@@ -5,20 +5,20 @@
 This project is a Python application that utilizes the DeOldify library to colorize black and white images. It also provides the functionality to generate variations of the colorized image based on different hue shifts and saturation levels.
 
 ### Installation
-First clone the repository and change path to deoldify
+Clone the repository and change path to Deoldify:
 ```bash
 git clone https://github.com/SDeyGitHubber/DeOldify.git
 cd DeOldify
 ```
 
-To install the required dependencies, run the following command:
+Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
 ### Usage
-To run the application, execute the following command:
+Run the application:
 
 ```bash
 python app.py
@@ -46,5 +46,3 @@ Once the application is running, you can upload black and white images and view 
 
 ### About DeOldify Library
 DeOldify is an open-source deep learning project that utilizes Generative Adversarial Networks (GANs) to automatically colorize black and white images. It provides high-quality colorization results and is widely used in various image colorization applications.
-
----
