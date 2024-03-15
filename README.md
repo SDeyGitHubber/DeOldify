@@ -39,6 +39,14 @@ streamlit run app.py
 - Wait for the colorization process to complete. The colorized image will be displayed alongside the original image.
 
 ### Demo
+![WhatsApp Image 2024-03-15 at 11 49 28 PM](https://github.com/SDeyGitHubber/DeOldify/assets/114286007/65a50f47-e345-413f-96d8-5b6abde713a9)  
+The user can upload the black and white image as an input
+
+![WhatsApp Image 2024-03-15 at 11 49 29 PM (1)](https://github.com/SDeyGitHubber/DeOldify/assets/114286007/c076cc8a-86a4-4cac-a84a-2f3644bd647d)  
+The input image is displayed
+
+![WhatsApp Image 2024-03-15 at 11 49 29 PM](https://github.com/SDeyGitHubber/DeOldify/assets/114286007/fa686048-718d-4f09-b979-df9199b37198)  
+The colorised image, that is generated is also shown
 
 ### About
 This app is created as a demonstration of using Streamlit for building interactive web applications and integrating deep learning models for image processing tasks.
